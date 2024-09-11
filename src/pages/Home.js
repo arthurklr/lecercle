@@ -1,14 +1,21 @@
-// src/pages/Home.js
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Carousel from '../components/Carousel';
+import filmsData from '../data/films.json';
+import './Home.css';
 
-function Home() {
+const Home = () => {
+  const [movies, setMovies] = useState([]);
+
+  useEffect(() => {
+    // Load movies data
+    setMovies(filmsData.movies);
+  }, []);
+
   return (
     <div className="home">
-      <h1>Bienvenue au Cinéma</h1>
-      <Carousel />
+      <Carousel movies={movies} />
     </div>
   );
-}
+};
 
 export default Home;
