@@ -1,0 +1,567 @@
+{
+    "updated_at": "2024-09-09 20:30:39 Europe\/Paris",
+    "movies": [
+        {
+            "id": 2135,
+            "title": "Jamais plus - It Ends With Us",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Justin Baldoni",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 131,
+            "release": "2024-08-21",
+            "synopsis": "Lily d\u00e9cide de se lancer dans l\u2019aventure de l\u2019entrepreneuriat en ouvrant une boutique de fleurs atypique alors qu\u2019elle rencontre Ryle, un homme tr\u00e8s s\u00e9duisant, qui a tout pour plaire et dont elle tombe rapidement amoureuse. C\u2019est sans compter sur le retour dans sa vie de son premier amour d\u2019enfance.",
+            "hours": 2,
+            "minutes": 11,
+            "screenings": [
+                {
+                    "id": 4813,
+                    "options": 2,
+                    "open": "2024-09-10 20:00:00 Europe\/Paris",
+                    "start": "2024-09-10 20:30:00 Europe\/Paris",
+                    "end": "2024-09-10 22:41:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "275673",
+            "updated_at": "2024-08-26 22:02:17 Europe\/Paris",
+            "first": "2024-09-10 20:30:00 Europe\/Paris",
+            "last": "2024-09-10 20:30:00 Europe\/Paris",
+            "genres": [
+                "Drame",
+                "Romance"
+            ],
+            "casting": [
+                "Jenny Slate",
+                "Blake Lively",
+                "Justin Baldoni",
+                "Brandon Sklenar",
+                "Hasan Minhaj"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2135.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2135.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2135.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2135.jpg"
+            }
+        },
+        {
+            "id": 2133,
+            "title": "Alien: Romulus",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Fede Alvarez",
+            "minimum_age": 12,
+            "teaser": null,
+            "caption": null,
+            "duration": 119,
+            "release": "2024-08-14",
+            "synopsis": "Dans cette neuvi\u00e8me aventure, un groupe de jeunes gens vivant dans un monde lointain se retrouvera confront\u00e9 \u00e0 la forme de vie la plus terrifiante de l'univers.",
+            "hours": 1,
+            "minutes": 59,
+            "screenings": [
+                {
+                    "id": 4811,
+                    "options": 2,
+                    "open": "2024-09-13 20:00:00 Europe\/Paris",
+                    "start": "2024-09-13 20:30:00 Europe\/Paris",
+                    "end": "2024-09-13 22:29:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "302445",
+            "updated_at": "2024-08-25 09:49:05 Europe\/Paris",
+            "first": "2024-09-13 20:30:00 Europe\/Paris",
+            "last": "2024-09-13 20:30:00 Europe\/Paris",
+            "genres": [
+                "Science fiction",
+                "Epouvante-horreur"
+            ],
+            "casting": [
+                "Cailee Spaeny",
+                "Isabela Merced",
+                "David Jonsson Fray",
+                "Archie Renaux",
+                "Spike Fearn"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2133.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2133.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2133.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2133.jpg"
+            }
+        },
+        {
+            "id": 2136,
+            "title": "The Crow ",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Rupert Sanders",
+            "minimum_age": 12,
+            "teaser": null,
+            "caption": null,
+            "duration": 111,
+            "release": "2024-06-05",
+            "synopsis": "Eric Draven et sa fianc\u00e9e se font agress\u00e9s et tu\u00e9s par un gang apr\u00e8s que la voiture du couple soit tomb\u00e9e en panne. Eric est ressuscit\u00e9 par un corbeau et se venge de ceux qui ont pris sa vie et celle de sa dulcin\u00e9e.",
+            "hours": 1,
+            "minutes": 51,
+            "screenings": [
+                {
+                    "id": 4814,
+                    "options": 2,
+                    "open": "2024-09-14 20:00:00 Europe\/Paris",
+                    "start": "2024-09-14 20:30:00 Europe\/Paris",
+                    "end": "2024-09-14 22:21:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "141621",
+            "updated_at": "2024-08-26 22:02:33 Europe\/Paris",
+            "first": "2024-09-14 20:30:00 Europe\/Paris",
+            "last": "2024-09-14 20:30:00 Europe\/Paris",
+            "genres": [
+                "Action",
+                "Fantastique",
+                "Thriller",
+                "Policier"
+            ],
+            "casting": [
+                "Danny Huston",
+                "Bill Skarsg\u00e5rd",
+                "FKA Twigs",
+                "Isabella Wei",
+                "David Bowles"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2136.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2136.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2136.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2136.jpg"
+            }
+        },
+        {
+            "id": 2137,
+            "title": "Les Rois du rallye",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Ross Venokur",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 93,
+            "release": "2024-07-31",
+            "synopsis": "Un jeune pilote fait le pari qu\u2019il pourra battre le champion en titre \u00e0 la plus grande course de rallye. Avec l'aide d'un ancien pilote devenu m\u00e9canicien, il devra affronter les pi\u00e8ges de ses adversaires et gagner la course pour sauver son village.",
+            "hours": 1,
+            "minutes": 33,
+            "screenings": [
+                {
+                    "id": 4815,
+                    "options": 2,
+                    "open": "2024-09-15 10:00:00 Europe\/Paris",
+                    "start": "2024-09-15 10:30:00 Europe\/Paris",
+                    "end": "2024-09-15 12:03:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "264664",
+            "updated_at": "2024-08-26 22:02:52 Europe\/Paris",
+            "first": "2024-09-15 10:30:00 Europe\/Paris",
+            "last": "2024-09-15 10:30:00 Europe\/Paris",
+            "genres": [
+                "Animation",
+                "Com\u00e9die",
+                "Famille",
+                "Aventure"
+            ],
+            "casting": [
+                "J.K. Simmons",
+                "Chloe Bennet",
+                "Sharon Horgan",
+                "Jimmy O. Yang",
+                "Lisa Lu"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2137.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2137.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2137.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2137.jpg"
+            }
+        },
+        {
+            "id": 2138,
+            "title": "Blink Twice",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Zo\u00eb Kravitz",
+            "minimum_age": 12,
+            "teaser": null,
+            "caption": null,
+            "duration": 102,
+            "release": "2024-08-21",
+            "synopsis": "Frida est une jeune et intelligente serveuse de Los Angeles qui a les yeux fix\u00e9s sur le philanthrope et magnat de la technologie, Slater King. Elle r\u00e9ussit \u00e0 s'introduire dans le cercle ferm\u00e9 de King et \u00e0 participer \u00e0 une r\u00e9union intime sur son \u00eele priv\u00e9e. Malgr\u00e9 le cadre idyllique, la beaut\u00e9 des gens, le champagne qui coule \u00e0 flots et les soir\u00e9es dansantes, Frida sent que cette \u00eele a quelque chose de plus terrifiant qu'elle n'y para\u00eet...",
+            "hours": 1,
+            "minutes": 42,
+            "screenings": [
+                {
+                    "id": 4816,
+                    "options": 2,
+                    "open": "2024-09-15 20:00:00 Europe\/Paris",
+                    "start": "2024-09-15 20:30:00 Europe\/Paris",
+                    "end": "2024-09-15 22:12:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "293674",
+            "updated_at": "2024-08-26 22:03:09 Europe\/Paris",
+            "first": "2024-09-15 20:30:00 Europe\/Paris",
+            "last": "2024-09-15 20:30:00 Europe\/Paris",
+            "genres": [
+                "Thriller"
+            ],
+            "casting": [
+                "Channing Tatum",
+                "Naomi Ackie",
+                "Simon Rex",
+                "Christian Slater",
+                "Alia Shawkat"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2138.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2138.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2138.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2138.jpg"
+            }
+        },
+        {
+            "id": 2147,
+            "title": "Le Dernier bus",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": " Gillies MacKinnon",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 86,
+            "release": "0000-00-00",
+            "synopsis": "L'histoire r\u00e9confortante de Tom, un retrait\u00e9 dont la femme vient de d\u00e9c\u00e9der, qui voyage du point le plus au nord de la Grande-Bretagne jusqu'\u00e0 sa ville d'origine, situ\u00e9e au point le plus au sud, en utilisant sa carte de bus gratuite.",
+            "hours": 1,
+            "minutes": 26,
+            "screenings": [
+                {
+                    "id": 4824,
+                    "options": 2,
+                    "open": "2024-09-16 20:00:00 Europe\/Paris",
+                    "start": "2024-09-16 20:30:00 Europe\/Paris",
+                    "end": "2024-09-16 21:56:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "0",
+            "updated_at": "1970-01-01 01:00:00 Europe\/Paris",
+            "first": "2024-09-16 20:30:00 Europe\/Paris",
+            "last": "2024-09-16 20:30:00 Europe\/Paris",
+            "genres": [],
+            "casting": [],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2147.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2147.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2147.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2147.jpg"
+            }
+        },
+        {
+            "id": 2149,
+            "title": "La Prisonni\u00e8re de Bordeaux",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Patricia Mazuy",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 108,
+            "release": "0000-00-00",
+            "synopsis": "Alma, seule dans sa grande maison en ville, et Mina, jeune m\u00e8re dans une lointaine banlieue, ont organis\u00e9 leur vie autour de l\u2019absence de leurs deux maris d\u00e9tenus au m\u00eame endroit\u2026 A l\u2019occasion d\u2019un parloir, les deux femmes se rencontrent et s\u2019engagent dans une amiti\u00e9 aussi improbable que tumultueuse\u2026",
+            "hours": 1,
+            "minutes": 48,
+            "screenings": [
+                {
+                    "id": 4825,
+                    "options": 2,
+                    "open": "2024-09-20 20:00:00 Europe\/Paris",
+                    "start": "2024-09-20 20:30:00 Europe\/Paris",
+                    "end": "2024-09-20 22:18:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "0",
+            "updated_at": "1970-01-01 01:00:00 Europe\/Paris",
+            "first": "2024-09-20 20:30:00 Europe\/Paris",
+            "last": "2024-09-20 20:30:00 Europe\/Paris",
+            "genres": [],
+            "casting": [],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2149.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2149.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2149.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2149.jpg"
+            }
+        },
+        {
+            "id": 2139,
+            "title": "La Nuit se traine",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Michiel Blanchart",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 91,
+            "release": "0000-00-00",
+            "synopsis": "Mady m\u00e8ne une double vie d\u2019\u00e9tudiant le jour et de serrurier la nuit. Un soir, il d\u00e9panne Claire, une jeune fille \u00e9nigmatique qui le fait venir pour la porte d\u2019un appartement qui n\u2019est pas le sien. Le sac qu'elle veut \u00e0 tout prix r\u00e9cup\u00e9rer n'est pas le sien non plus, mais celui de Yannick, un homme auquel Mady doit rendre des comptes. Pris dans une course poursuite infernale, Mady n'a qu'une nuit pour prouver son innocence et sauver sa peau.",
+            "hours": 1,
+            "minutes": 31,
+            "screenings": [
+                {
+                    "id": 4817,
+                    "options": 2,
+                    "open": "2024-09-21 20:00:00 Europe\/Paris",
+                    "start": "2024-09-21 20:30:00 Europe\/Paris",
+                    "end": "2024-09-21 22:01:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "299310",
+            "updated_at": "2024-08-26 22:03:26 Europe\/Paris",
+            "first": "2024-09-21 20:30:00 Europe\/Paris",
+            "last": "2024-09-21 20:30:00 Europe\/Paris",
+            "genres": [
+                "Thriller"
+            ],
+            "casting": [
+                "Jonas Bloquet",
+                "Jonathan Feltre",
+                "Natacha Krief",
+                "Thomas Mustin",
+                "Sam Louwyck"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2139.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2139.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2139.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2139.jpg"
+            }
+        },
+        {
+            "id": 2140,
+            "title": "Anzu, chat fant\u00f4me",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Yoko Kuno",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 90,
+            "release": "0000-00-00",
+            "synopsis": "La rencontre de Kirin, jeune fille de 11 ans abandonn\u00e9e par son p\u00e8re et \u00e9lev\u00e9e par son grand-p\u00e8re, et du chat fant\u00f4me Anzu. Ce dernier ne correspond en rien aux chats fant\u00f4mes du folklore japonais : il n\u2019est ni buveur de sang, ni effrayant. Il est au contraire tr\u00e8s serviable, et a la charge de veiller sur Kirin.",
+            "hours": 1,
+            "minutes": 30,
+            "screenings": [
+                {
+                    "id": 4818,
+                    "options": 2,
+                    "open": "2024-09-22 10:00:00 Europe\/Paris",
+                    "start": "2024-09-22 10:30:00 Europe\/Paris",
+                    "end": "2024-09-22 12:00:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "293565",
+            "updated_at": "2024-08-26 22:03:42 Europe\/Paris",
+            "first": "2024-09-22 10:30:00 Europe\/Paris",
+            "last": "2024-09-22 10:30:00 Europe\/Paris",
+            "genres": [
+                "Animation",
+                "Com\u00e9die",
+                "Aventure"
+            ],
+            "casting": [],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2140.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2140.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2140.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2140.jpg"
+            }
+        },
+        {
+            "id": 2074,
+            "title": "Un p\u2019tit truc en plus",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": " Artus",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 99,
+            "release": "2024-05-01",
+            "synopsis": "Pour \u00e9chapper \u00e0 la police, un fils et son p\u00e8re en cavale sont contraints de trouver refuge dans une colonie de vacances pour jeunes adultes en situation de handicap, se faisant passer pour un pensionnaire et son \u00e9ducateur sp\u00e9cialis\u00e9. Le d\u00e9but des emmerdes et d\u2019une formidable exp\u00e9rience humaine qui va les changer \u00e0 jamais.",
+            "hours": 1,
+            "minutes": 39,
+            "screenings": [
+                {
+                    "id": 4810,
+                    "options": 2,
+                    "open": "2024-09-22 20:00:00 Europe\/Paris",
+                    "start": "2024-09-22 20:30:00 Europe\/Paris",
+                    "end": "2024-09-22 22:09:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "318031",
+            "updated_at": "2024-05-01 11:55:29 Europe\/Paris",
+            "first": "2024-09-22 20:30:00 Europe\/Paris",
+            "last": "2024-09-22 20:30:00 Europe\/Paris",
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "casting": [
+                "Clovis Cornillac",
+                "Alice Bela\u00efdi",
+                "Artus",
+                "Marc Riso",
+                "C\u00e9line Groussard"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2074.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2074.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2074.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2074.jpg"
+            }
+        },
+        {
+            "id": 2141,
+            "title": "F\u00eal\u00e9s",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Christophe Duthuron",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 91,
+            "release": "0000-00-00",
+            "synopsis": "Les adh\u00e9rents du foyer Arc-en-ciel, authentique lieu associatif de Marmande, sont des personnes ordinaires mais violent\u00e9es par la vie. Psychologiquement fragiles, ils sont au milieu du gu\u00e9 : ni assez malades pour \u00eatre pris en charge par les institutions, ni assez valides pour affronter seuls la violence du monde. Ils trouvent donc refuge dans cette incroyable petite maison, leur arche de No\u00e9, dont ils sont pr\u00e9sident, secr\u00e9taire, tr\u00e9sorier, et surtout d\u00e9cisionnaires des activit\u00e9s. Ils s\u2019y autog\u00e8rent sous la houlette de Pierre, le fondateur du lieu, qui m\u00e8ne un combat quotidien pour en assurer la p\u00e9rennit\u00e9... Ce foyer s\u2019av\u00e8re \u00eatre le dernier bastion des m\u00e9thodes de Fran\u00e7ois Tosquelles, psychiatre g\u00e9nial devenu r\u00e9volutionnaire en supprimant toutes les barri\u00e8res visuelles, fonctionnelles ou administratives, entre soignants et soign\u00e9s.",
+            "hours": 1,
+            "minutes": 31,
+            "screenings": [
+                {
+                    "id": 4819,
+                    "options": 2,
+                    "open": "2024-09-23 20:00:00 Europe\/Paris",
+                    "start": "2024-09-23 20:30:00 Europe\/Paris",
+                    "end": "2024-09-23 22:01:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "316133",
+            "updated_at": "2024-08-26 22:04:00 Europe\/Paris",
+            "first": "2024-09-23 20:30:00 Europe\/Paris",
+            "last": "2024-09-23 20:30:00 Europe\/Paris",
+            "genres": [
+                "Com\u00e9die dramatique"
+            ],
+            "casting": [
+                "Fran\u00e7ois Berl\u00e9and",
+                "Pierre Richard",
+                "Charlotte De Turckheim",
+                "Bernard Le Coq",
+                "M\u00e9liane Marcaggi"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2141.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2141.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2141.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2141.jpg"
+            }
+        },
+        {
+            "id": 2142,
+            "title": "La Belle affaire",
+            "rank": 0,
+            "digital3d": false,
+            "number_of_3d_screenings": 0,
+            "director": "Natja Brunckhorst",
+            "minimum_age": 0,
+            "teaser": null,
+            "caption": null,
+            "duration": 116,
+            "release": "0000-00-00",
+            "synopsis": "1990, en pleine r\u00e9unification complexe des deux Allemagne, les ouvriers d\u2019un m\u00eame quartier d\u2019ex-RDA se retrouvent sans emploi. Ils d\u00e9couvrent un jour l\u2019emplacement de milliers de billets est-allemands vou\u00e9s \u00e0 \u00eatre d\u00e9truits. Ils ont trois jours pour s\u2019en emparer et convertir l\u2019argent en Deutsche Mark, en montant l\u2019affaire qui changera leur vie.",
+            "hours": 1,
+            "minutes": 56,
+            "screenings": [
+                {
+                    "id": 4820,
+                    "options": 2,
+                    "open": "2024-09-24 20:00:00 Europe\/Paris",
+                    "start": "2024-09-24 20:30:00 Europe\/Paris",
+                    "end": "2024-09-24 22:26:00 Europe\/Paris",
+                    "digital2d": true,
+                    "digital3d": false,
+                    "reel": false
+                }
+            ],
+            "allocine": "315205",
+            "updated_at": "2024-08-26 22:04:22 Europe\/Paris",
+            "first": "2024-09-24 20:30:00 Europe\/Paris",
+            "last": "2024-09-24 20:30:00 Europe\/Paris",
+            "genres": [
+                "Com\u00e9die"
+            ],
+            "casting": [
+                "Sandra H\u00fcller",
+                "Max Riemelt",
+                "Ronald Zehrfeld"
+            ],
+            "picture": {
+                "small": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160\/i2142.jpg",
+                "small_with_reflection": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_160f\/i2142.jpg",
+                "medium": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_300\/i2142.jpg",
+                "big": "https:\/\/www.cinemaorbey.fr\/public\/images\/affiches_600\/i2142.jpg"
+            }
+        }
+    ]
+}
