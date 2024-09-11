@@ -1,0 +1,28 @@
+.home {
+    padding: 20px;
+  }
+  
+  .carousel {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  
+  .carousel-item {
+    min-width: 200px;
+    background-color: #eee;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .carousel-item h3 {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
