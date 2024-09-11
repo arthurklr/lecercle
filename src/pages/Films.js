@@ -1,32 +1,34 @@
-// src/pages/Films.js
 import React, { useEffect, useState } from 'react';
-import './Films.css'; // Styles pour les films
+import filmsData from '../data/films.json';
+import './Films.css';
 
-function Films() {
+const Films = () => {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    // Charger les données depuis le fichier JSON
-    fetch('/path/to/films.json')  // Mets le bon chemin pour le fichier JSON
-      .then((response) => response.json())
-      .then((data) => setMovies(data.movies));
+    // Load movies data
+    setMovies(filmsData.movies);
   }, []);
 
   return (
     <div className="films">
-      <h2>Films disponibles</h2>
-      <ul>
+      <h1>Films</h1>
+      <div className="films-list">
         {movies.map((movie) => (
-          <li key={movie.id} className="film-item">
-            <h3>{movie.title}</h3>
-            <p>Prochaines séances: {movie.screenings.map(s => new Date(s.start).toLocaleString()).join(', ')}</p>
-            <p>Durée: {movie.duration} min</p>
-            <p>Genres: {movie.genres.join(', ')}</p>
-          </li>
+          <div className="film-item" key={movie.id}>
+            <img src={movie.picture.medium} alt={movie.title} />
+            <div className='info_carre'>
+                <div className='genre_affiche'><img src='./bobine_film.png' alt='durée film'></img><div>{movie.genres}</div></div>
+                <div className='duree_affiche'><img src='./clock.svg' alt='durée film'></img>{movie.hours}h{movie.minutes}min</div>
+            </div>
+            <div className="film-info">
+              <h2>{movie.title}</h2>
+            </div>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
   );
-}
+};
 
 export default Films;
