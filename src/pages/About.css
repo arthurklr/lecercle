@@ -1,0 +1,14 @@
+.about {
+    padding: 20px;
+    background: linear-gradient(7B261D, AB4823);
+    color: white;
+  }
+  
+  .about h1 {
+    font-size: 24px;
+  }
+  
+  .about p {
+    font-size: 16px;
+  }
+  
